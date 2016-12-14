@@ -1,0 +1,7 @@
+Mobile Phone Tracking System
+
+Implements a toned down version of mobile phone tracking i.e when a phone is called, where is it located, in which state it is.
+
+actions.txt contains some commands to build the structure of existing mobile phones and mobile towers and their states.
+
+There is a random simulation mode in the program which imitates the random behaviour of the mobile phones. The phones randomly switch on, switch off, move from one tower to another, call each other.
